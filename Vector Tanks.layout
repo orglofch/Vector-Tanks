@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="CollisionBox.cc" open="0" top="0" tabpos="5">
+		<Cursor position="335" topLine="0" />
+	</File>
+	<File name="CollisionBox.h" open="0" top="0" tabpos="0">
+		<Cursor position="346" topLine="0" />
+	</File>
+	<File name="Color.cc" open="0" top="0" tabpos="0">
+		<Cursor position="115" topLine="0" />
+	</File>
+	<File name="Color.h" open="0" top="0" tabpos="0">
+		<Cursor position="243" topLine="0" />
+	</File>
+	<File name="Effects.cc" open="0" top="0" tabpos="0">
+		<Cursor position="35" topLine="0" />
+	</File>
+	<File name="Effects.h" open="0" top="0" tabpos="0">
+		<Cursor position="213" topLine="0" />
+	</File>
+	<File name="Effects\Anchor.h" open="0" top="0" tabpos="0">
+		<Cursor position="146" topLine="0" />
+	</File>
+	<File name="Effects\Mesh.cc" open="0" top="0" tabpos="0">
+		<Cursor position="264" topLine="0" />
+	</File>
+	<File name="Effects\Mesh.h" open="0" top="0" tabpos="0">
+		<Cursor position="272" topLine="0" />
+	</File>
+	<File name="Effects\Particle.cc" open="0" top="0" tabpos="6">
+		<Cursor position="6954" topLine="215" />
+	</File>
+	<File name="Effects\Particle.h" open="0" top="0" tabpos="2">
+		<Cursor position="789" topLine="43" />
+	</File>
+	<File name="Effects\ParticleEmitter.cc" open="0" top="0" tabpos="5">
+		<Cursor position="4286" topLine="115" />
+	</File>
+	<File name="Effects\ParticleEmitter.h" open="0" top="0" tabpos="0">
+		<Cursor position="1359" topLine="36" />
+	</File>
+	<File name="Effects\ParticleEng.cc" open="0" top="0" tabpos="7">
+		<Cursor position="281" topLine="0" />
+	</File>
+	<File name="Effects\ParticleEng.h" open="0" top="0" tabpos="2">
+		<Cursor position="176" topLine="0" />
+	</File>
+	<File name="Effects\Point.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1584" topLine="61" />
+	</File>
+	<File name="Effects\Point.h" open="0" top="0" tabpos="0">
+		<Cursor position="147" topLine="0" />
+	</File>
+	<File name="Globals.cc" open="0" top="0" tabpos="8">
+		<Cursor position="121" topLine="0" />
+	</File>
+	<File name="Globals.h" open="0" top="0" tabpos="9">
+		<Cursor position="195" topLine="0" />
+	</File>
+	<File name="Math.cc" open="0" top="0" tabpos="0">
+		<Cursor position="179" topLine="0" />
+	</File>
+	<File name="Math.h" open="0" top="0" tabpos="0">
+		<Cursor position="160" topLine="0" />
+	</File>
+	<File name="PixEdit.cc" open="0" top="0" tabpos="3">
+		<Cursor position="5720" topLine="143" />
+	</File>
+	<File name="PixEdit.h" open="0" top="0" tabpos="2">
+		<Cursor position="1482" topLine="61" />
+	</File>
+	<File name="PixNode.cc" open="0" top="0" tabpos="1">
+		<Cursor position="8435" topLine="273" />
+	</File>
+	<File name="PixNode.h" open="0" top="0" tabpos="2">
+		<Cursor position="396" topLine="0" />
+	</File>
+	<File name="Pixmap.cc" open="0" top="0" tabpos="4">
+		<Cursor position="16899" topLine="461" />
+	</File>
+	<File name="Pixmap.h" open="0" top="0" tabpos="5">
+		<Cursor position="1681" topLine="50" />
+	</File>
+	<File name="Player.cc" open="1" top="1" tabpos="4">
+		<Cursor position="20023" topLine="400" />
+	</File>
+	<File name="Player.h" open="1" top="0" tabpos="3">
+		<Cursor position="2229" topLine="97" />
+	</File>
+	<File name="StarField.cc" open="0" top="0" tabpos="7">
+		<Cursor position="162" topLine="6" />
+	</File>
+	<File name="StarField.h" open="0" top="0" tabpos="0">
+		<Cursor position="175" topLine="0" />
+	</File>
+	<File name="System.cc" open="1" top="0" tabpos="7">
+		<Cursor position="467" topLine="12" />
+	</File>
+	<File name="System.h" open="1" top="0" tabpos="8">
+		<Cursor position="1127" topLine="30" />
+	</File>
+	<File name="UIEntity.cc" open="1" top="0" tabpos="1">
+		<Cursor position="7694" topLine="291" />
+	</File>
+	<File name="UIEntity.h" open="1" top="0" tabpos="2">
+		<Cursor position="1879" topLine="87" />
+	</File>
+	<File name="Utility.cc" open="1" top="0" tabpos="6">
+		<Cursor position="449" topLine="2" />
+	</File>
+	<File name="Utility.h" open="1" top="0" tabpos="5">
+		<Cursor position="238" topLine="0" />
+	</File>
+	<File name="Vect.cc" open="0" top="0" tabpos="3">
+		<Cursor position="1969" topLine="61" />
+	</File>
+	<File name="Vect.h" open="0" top="0" tabpos="4">
+		<Cursor position="428" topLine="19" />
+	</File>
+	<File name="Weapon_Data.cc" open="0" top="0" tabpos="0">
+		<Cursor position="288" topLine="0" />
+	</File>
+	<File name="Weapon_Data.h" open="0" top="0" tabpos="0">
+		<Cursor position="482" topLine="2" />
+	</File>
+	<File name="Weapons.h" open="0" top="0" tabpos="10">
+		<Cursor position="706" topLine="9" />
+	</File>
+	<File name="Weapons\BlackSheepWall.cc" open="0" top="0" tabpos="0">
+		<Cursor position="218" topLine="0" />
+	</File>
+	<File name="Weapons\BlackSheepWall.h" open="0" top="0" tabpos="0">
+		<Cursor position="165" topLine="0" />
+	</File>
+	<File name="Weapons\Burrower.cc" open="0" top="0" tabpos="6">
+		<Cursor position="1074" topLine="24" />
+	</File>
+	<File name="Weapons\Burrower.h" open="0" top="0" tabpos="0">
+		<Cursor position="126" topLine="6" />
+	</File>
+	<File name="Weapons\ClusterBomb.cc" open="0" top="0" tabpos="6">
+		<Cursor position="1681" topLine="37" />
+	</File>
+	<File name="Weapons\ClusterBomb.h" open="0" top="0" tabpos="4">
+		<Cursor position="384" topLine="0" />
+	</File>
+	<File name="Weapons\EMP.cc" open="0" top="0" tabpos="1">
+		<Cursor position="20" topLine="0" />
+	</File>
+	<File name="Weapons\EMP.h" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Weapons\Epicenter.cc" open="0" top="0" tabpos="5">
+		<Cursor position="815" topLine="24" />
+	</File>
+	<File name="Weapons\Epicenter.h" open="0" top="0" tabpos="4">
+		<Cursor position="154" topLine="0" />
+	</File>
+	<File name="Weapons\Fireworks.cc" open="0" top="0" tabpos="3">
+		<Cursor position="2255" topLine="71" />
+	</File>
+	<File name="Weapons\Fireworks.h" open="0" top="0" tabpos="4">
+		<Cursor position="611" topLine="11" />
+	</File>
+	<File name="Weapons\Nebula.cc" open="0" top="0" tabpos="1">
+		<Cursor position="1066" topLine="13" />
+	</File>
+	<File name="Weapons\Nebula.h" open="0" top="0" tabpos="0">
+		<Cursor position="365" topLine="5" />
+	</File>
+	<File name="Weapons\Projectile.cc" open="0" top="0" tabpos="6">
+		<Cursor position="4897" topLine="134" />
+	</File>
+	<File name="Weapons\Projectile.h" open="0" top="0" tabpos="0">
+		<Cursor position="174" topLine="0" />
+	</File>
+	<File name="Weapons\Pyroclasm.cc" open="0" top="0" tabpos="0">
+		<Cursor position="1606" topLine="30" />
+	</File>
+	<File name="Weapons\Pyroclasm.h" open="0" top="0" tabpos="0">
+		<Cursor position="355" topLine="0" />
+	</File>
+	<File name="Weapons\RicochetRifle.cc" open="0" top="0" tabpos="7">
+		<Cursor position="604" topLine="61" />
+	</File>
+	<File name="Weapons\SharpShot.cc" open="0" top="0" tabpos="8">
+		<Cursor position="859" topLine="0" />
+	</File>
+	<File name="Weapons\SharpShot.h" open="0" top="0" tabpos="0">
+		<Cursor position="355" topLine="0" />
+	</File>
+	<File name="Weapons\Skipper.cc" open="0" top="0" tabpos="0">
+		<Cursor position="1399" topLine="34" />
+	</File>
+	<File name="Weapons\Splitter.cc" open="0" top="0" tabpos="3">
+		<Cursor position="1758" topLine="23" />
+	</File>
+	<File name="Weapons\Splitter.h" open="0" top="0" tabpos="0">
+		<Cursor position="155" topLine="1" />
+	</File>
+	<File name="Weapons\Torrent.cc" open="0" top="0" tabpos="11">
+		<Cursor position="2655" topLine="76" />
+	</File>
+	<File name="Weapons\Torrent.h" open="0" top="0" tabpos="0">
+		<Cursor position="347" topLine="3" />
+	</File>
+	<File name="Weapons\Undermine.cc" open="0" top="0" tabpos="0">
+		<Cursor position="3219" topLine="98" />
+	</File>
+	<File name="Weapons\Undermine.h" open="0" top="0" tabpos="0">
+		<Cursor position="376" topLine="5" />
+	</File>
+	<File name="framerate.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="719" topLine="8" />
+	</File>
+	<File name="framerate.h" open="0" top="0" tabpos="0">
+		<Cursor position="304" topLine="3" />
+	</File>
+	<File name="glfont.cc" open="0" top="0" tabpos="6">
+		<Cursor position="5350" topLine="180" />
+	</File>
+	<File name="glfont.h" open="0" top="0" tabpos="5">
+		<Cursor position="1037" topLine="24" />
+	</File>
+</CodeBlocks_layout_file>
+   

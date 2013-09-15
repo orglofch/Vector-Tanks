@@ -1,0 +1,23 @@
+TO DO NOW
+- Fix Texture Seg Fault issues
+- Create purchase data types
+- Make it so water has a seperate projectile collide method, i.e. slows instead of exploding
+- Rework liquids a little bit
+- Music and sound
+- Graphic options
+- Sound options
+- Window options
+- Main menu
+- Rework background mesh for better efficiency
+
+
+DESIRABLES
+- Achievement - I.E. destroy x number of terrain blocks
+- Game Modes - Sudden death flood, random draft, team deathmatch
+- Day and Night cycle, clouds etc.
+- Possibly bloom shader, and gausian blur shader
+- Weapon types
+- Terrain types; ice, snow, dirt, stone, lava
+- Objects; trees rocks etc.
+- Computer AI
+- Different Tanks Types
