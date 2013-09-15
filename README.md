@@ -1,4 +1,4 @@
 VectorTanks
 ===========
 
-2D tank game made using SDL-opengl, written in c++.
+2D tank game with dynamic terrain deformation [c++] [SDL]
