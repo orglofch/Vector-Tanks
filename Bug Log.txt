@@ -1,5 +1,0 @@
-Burrower and Undermine don't collapse terrain when they hit the bottom of the screen.
-
-Projectiles collides with stuff sometime's above the screen at half of the screen width.
-
-When a player explodes all nearby players only recieve half the explosion damage.
