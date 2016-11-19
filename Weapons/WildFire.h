@@ -1,6 +1,0 @@
-#ifndef WILDFIRE_H_INCLUDED
-#define WILDFIRE_H_INCLUDED
-
-
-
-#endif // WILDFIRE_H_INCLUDED
